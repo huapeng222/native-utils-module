@@ -15,6 +15,10 @@
     "ZLNativeUtilsModule.podspec",
     "README.md"
   ],
-  "author": "",
-  "license": "ISC"
+  "author": "huazhaopeng",
+  "license": "ISC",
+  "repository" :  { 
+      "type" : "git",
+      "url" : "https://github.com/huapeng222/native-utils-module.git"  
+  }  
 }
